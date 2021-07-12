@@ -1,0 +1,2 @@
+## In Progress
+This is not an editor created by only me! I followed a tutorial from [here](https://viewsourcecode.org/snaptoken/kilo/) to create this and I'm only using this repo as a way for me to transfer this repo to my other pc. Once again, I do NOT take credit for this work.
